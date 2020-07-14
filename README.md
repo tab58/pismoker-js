@@ -1,2 +1,3 @@
 # pismoker-js
-An adaptation of PiSmoker, but in Javascript.
+
+An adaptation of PiSmoker in Javascript.
